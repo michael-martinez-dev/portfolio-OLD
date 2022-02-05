@@ -8,10 +8,17 @@ const About = () => {
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Mike.
-                        <br className="hidden lg:inline-block" /> I love to build amazing apps.
+                        <br className="hidden lg:inline-block" /> 
                     </h1>
+                    <h2 className="title-font sm:text-xl text-l mb-4 font-small text-white">
+                        Welcome to my personal site.
+                    </h2>
                     <p className="mb-8 leading-relaxed">
-                        This is a little about who I am as a software professional.
+                        Honorably discharged veteran, currently pursuing a Bachelor's degree in Computer Science. 
+                        Dedicated software professional and data analyst excited to design, develop, and launch meaningful 
+                        technologies. Willing to work as a project team member and individually as required. Goal oriented, 
+                        organized and adapts well to new environments. Seeking a position where I can use my skills to help 
+                        improve an organization, tackle new challenges, improve problem solving skills and expand knowledge.
                     </p>
                     <div className="flex justify-center">
                         <a 
