@@ -14,10 +14,10 @@ const About = () => {
                         Welcome to my personal site.
                     </h2>
                     <p className="mb-8 leading-relaxed">
-                        Honorably discharged veteran, currently pursuing a Bachelor's degree in Computer Science. 
-                        Dedicated software professional and data analyst excited to design, develop, and launch meaningful 
-                        technologies. Willing to work as a project team member and individually as required. Goal oriented, 
-                        organized and adapts well to new environments. Seeking a position where I can use my skills to help 
+                        I'm an honorably discharged veteran, currently pursuing a Bachelor's degree in Computer Science. 
+                        I'm a dedicated software professional and data analyst excited to design, develop, and launch meaningful 
+                        technologies. I'm willing to work as a project team member and individually as required. I'm goal oriented, 
+                        organized and adapts well to new environments. I'm seeking a position where I can use my skills to help 
                         improve an organization, tackle new challenges, improve problem solving skills and expand knowledge.
                     </p>
                     <div className="flex justify-center">
