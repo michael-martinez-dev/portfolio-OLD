@@ -37,7 +37,7 @@ const About = () => {
                 <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./logo.svg"
+            src="./me.png"
           />
                 </div>
             </div>
