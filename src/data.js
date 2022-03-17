@@ -24,7 +24,7 @@ export const projects = [
         title: "Real-time Messaging App",
         subtitle: "MERN & Pusher Channels",
         description: "This was another class project focused on Web APIs. It it a simple messaging app that authenticates users and updates user chats in real time using the pub/sub service Pusher.",
-        image: "./network.svg",
+        image: "./messaging.png",
         link: "https://github.com/MixedMachine/MERN-Messaging-App"
     }
 ];
